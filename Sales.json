@@ -1,0 +1,16 @@
+{
+  "1004": {
+    "name": "chow",
+    "brand": "yol",
+    "expiry": "22-12-2022",
+    "price": 40,
+    "quantity": 2
+  },
+  "1020": {
+    "name": "5 star",
+    "brand": "cadbery",
+    "expiry": "08-12-2022",
+    "price": 15,
+    "quantity": 1
+  }
+}
